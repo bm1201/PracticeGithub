@@ -1,2 +1,3 @@
 branch 연습해보기
 branch 생성 및 branch 커밋
+branch merge 및 삭제까지 성공
